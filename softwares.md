@@ -2,5 +2,7 @@
 
 Assalamu Alaikum Wa Rahmatullah. Here I indexing all my favourite windows's software's alternative in linux. <br>
 
-|---|Windows|Linux|---|
-|Sl.| 
+---|Windows|Linux|---
+---|        |       | ---
+Sl.| Software Name | Link | Software Name | Link |----
+01| Adobe Acrobat Reader |---|----------|----|----
