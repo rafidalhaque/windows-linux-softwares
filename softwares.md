@@ -1,6 +1,6 @@
 ## My favourite softwares (windows) alternative in linux
 
-Assalamu Alaikum Wa Rahmatullah. Here I indexing all my favourite windows's software's alternative in linux. <br>
+Assalamu Alaikum Wa Rahmatullah. Here I indexing all my favourite windows software's alternative in linux. <br>
 
 
 Sl.| Software Name (Windows) | Link (Windows) | Software Name (Linux) | Link (Linux) |Comment
